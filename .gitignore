@@ -1,0 +1,35 @@
+# Visual Studio 临时文件夹
+.vs/
+# 编译输出目录
+x64/
+Debug/
+Release/
+bin/
+obj/
+# Visual Studio Code 文件夹
+.vscode/
+# 用户选项文件
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# 日志文件
+*.log
+# 数据库文件
+*.VC.db
+*.VC.opendb
+# 自动生成的依赖文件
+*.idb
+*.pdb
+*.ipch/
+# 编译器生成的缓存和临时文件
+*.ilk
+*.meta
+*.iobj
+*.ipdb
+*.lastbuildstate
+# 其他临时文件
+*.tlog/
+# Resharper 文件夹（如果用到）
+_ReSharper*/
+
